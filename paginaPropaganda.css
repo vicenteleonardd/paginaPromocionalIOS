@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Inter;
+    list-style: none;
+    color: black;
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    background-color: rgb(246, 246, 27);
+    
+}
+
+input{
+    width: 500px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.navigationItems{
+    padding: 50px;
+    margin-left: 400px;
+
+}
+
+li{
+    display: inline;
+    margin-left: 50px;
+}
+
+#logo{
+    width: 11vw;
+
+}
+
+#imgproduto{
+    width: 40vh;
+    margin-top: 30px;
+    padding: 0px;
+    
+
+    
+    
+}
+
+
+
+a{
+    text-decoration: none;
+  
+}
+
+.avaliacoes{
+    margin-top: 100px;
+}
+
+
+
+
+#addtocart{
+    background-color: rgb(93, 90, 90);
+    color: white;
+    padding: 5px;
+    border-radius: 10%;
+}
+
+
+
+.logoInstagram{
+    width: 1vw;
+}
+
+.produto1{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+.avaliacoes{
+    margin-left: 15vw;
+}
+
+#comprar{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 119, 255);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+
+
